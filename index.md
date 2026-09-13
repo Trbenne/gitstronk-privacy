@@ -2,6 +2,14 @@
 
 Last updated: 2026-09-13
 
+## How to delete your data
+
+There is no account and no deletion request to send to the developer. Data is on the device only (plus Android Auto Backup if the user enabled device backup).
+
+1. In the app: delete a person, delete a routine, or discard an in-progress workout.
+2. Uninstall the app to remove all remaining local workout data (names, routines, exercises, notes, session history, weights, weight logs, and settings).
+3. Optional: if Android backup is on, remove this app’s backup in the device’s Google backup settings. We do not keep a copy. We do not set a retention period.
+
 ## Data we store
 
 Git Stronk Workout Tracker stores people names, routines, exercises, notes, session history, working weights, max weights, weight logs, and settings in AsyncStorage on the device. There is no developer backend.
@@ -17,10 +25,6 @@ CSV import uses a document picker so you choose the file. On Android, export can
 ## Permissions we use
 
 Rest and timed-circuit countdown notifications and background countdown sound keep countdown audio running. Rest-timer haptics provide feedback. CSV uses the document picker, folder save, and share as described above.
-
-## Deleting data
-
-Uninstall removes all local workout data. The app does not offer a single clear-all button. You can delete a person or delete a routine in the app. You can discard an in-progress workout.
 
 ## Accounts, sale, and analytics
 
