@@ -1,3 +1,7 @@
+# Git Stronk Workout Tracker — Privacy policy
+
+Last updated: 2026-09-13
+
 ## Data we store
 
 Git Stronk Workout Tracker stores people names, routines, exercises, notes, session history, working weights, max weights, weight logs, and settings in AsyncStorage on the device. There is no developer backend.
