@@ -1,0 +1,661 @@
+# people
+name,is_primary
+me,true
+workout buddy,false
+# exercises
+name
+Ab Ball Toss Situps
+Back Breakers
+Backbreaker
+Bench
+Bench machine
+Box Jumps
+Boxing Drills
+Bulgarian Split Squats
+Calf Raises
+Calves Got Out
+Circuits
+Clean things
+Curls
+DB Bench Press
+Single Arm pulls
+Grippy Bois
+Inclined DB Press
+Inclined Run
+Inclined Sit-ups
+Inclined Situps
+Kettle Bell Rotations
+Lat Pulldown
+Lat Pulldowns
+Lateral Raises
+Leg Curl
+Leg Extension
+Leg Press
+Lunges
+Machine Chest Press
+Machine Curls
+Machine Incline Press
+Machine Rows
+Machine Scrunches (inclined)
+Machine Tricep Extension
+Military Press
+Overhead Tricep
+Preacher Curls
+Press
+Push-ups
+Rear Delt Flies
+Rows
+Run
+Back stretches
+Shoulder press
+Side Squat
+Sit-ups
+Sprints
+Squat
+Squat Lunges
+Swing Squat Clean Circuit
+The Clap
+Tricep Extension
+Tricep Push Down
+Warmup
+Weird Machine Military
+Weird Machine Pull Down
+Weird Machine Rows
+Wrist Exercises
+# routines
+routine_name,exercise_name,target_sets,target_reps,sort_index,rest_seconds,notes,item_kind,item_id,circuit_name,children,circuit_mode,transition_seconds
+Cardio day,Run,1,1,0,,,exercise,1786388539190-ohaaylf4b,,,,
+Cardio day,Sprints,4,1,1,,,exercise,1786388539190-x8c1v51es,,,,
+Cardio day,Push-ups,3,10,2,,,exercise,1786388539191-pbodh1tcr,,,,
+Cardio day,Sit-ups,3,10,3,,,exercise,1786388539191-n4uvtrkxh,,,,
+Cardio day,Circuits,4,8,4,,,exercise,1786388539191-0zxdljboi,,,,
+Cardio day,Inclined Run,4,8,5,,,exercise,1786388539191-3bsixloi7,,,,
+Cardio day,Wrist Exercises,4,8,6,,,exercise,1786388539191-y9bv1rzvd,,,,
+Cardio day,Boxing Drills,4,8,7,,,exercise,1786388539191-xxz8jbo4b,,,,
+Cardio day,Inclined DB Press,4,8,8,,,exercise,1786388539191-b6h9kt543,,,,
+Day 1,Warmup,1,1,0,,Do a lil run and stretching,exercise,1786402449606-557lqcux5,,,,
+Day 1,Clean things,5,5,1,,Permits,exercise,1786388539191-za2afvzj8,,,,
+Day 1,Bench machine,4,8,2,,me does 4x10-12 for now,exercise,1786388539191-i0g9fy45n,,,,
+Day 1,Leg Press,5,5,3,,"Slant one;
+me: 90
+workout buddy: 100",exercise,1786388539191-t33c7fj1a,,,,
+Day 1,Rear Delt Flies,3,10,4,,"Number 3 angle
+65/75 machine",exercise,1786402190896-fjriz103z,,,,
+Day 1,The Clap,4,8,5,,"me can try 20, else do 12
+60/80 machine",exercise,1786402181277-1gdsnh2hx,,,,
+Day 1,Shoulder press,4,8,6,,"DB
+#7
+me do 10 for now (8/25)",exercise,1786402278490-2q3u1v056,,,,
+Day 1,Ab Ball Toss Situps,3,999,7,,"First set:
+me: 40
+workout buddy: 34",exercise,1786402291413-42g0a6736,,,,
+Day 2,Warmup,1,1,0,,,exercise,1786402521459-ggpposejq,,,,
+Day 2,Bulgarian Split Squats,4,10,1,,,exercise,1786388539191-t5lrdlpv3,,,,
+Day 2,Machine Rows,4,8,2,,,exercise,1786388539191-pvx1b0ipe,,,,
+Day 2,Lat Pulldowns,4,8,3,,,exercise,1786388539191-pyg68n4dv,,,,
+Day 2,Grippy Bois,2,1,4,,,exercise,1786388539191-em3aba5mu,,,,
+Day 2,Box Jumps,4,8,5,,,exercise,1786388539191-9qcs84i8n,,,,
+Day 3,Warmup,1,1,0,,,exercise,1786402548020-belem4xvv,,,,
+Day 3,Swing Squat Clean Circuit,3,10,1,60,,exercise,1786388539191-y3eu4is1n,,,,
+Day 3,Kettle Bell Rotations,4,8,2,,"2 sets standing
+2 sets kneeling
+Do both sides per round",exercise,1786402358320-w0vusw8w2,,,,
+Day 3,Machine Curls,5,5,3,,"me does the single arm machine
+workout buddy does double",exercise,1786388539192-6pcyf1dqk,,,,
+Day 3,Calves Got Out,3,999,4,,,exercise,1786388539192-spy1wsyby,,,,
+Day 3,Back Breakers,3,10,5,,me does 12 reps with 10 overhead tri ext between,exercise,1786388539192-wadmelnk7,,,,
+Day 3,Machine Scrunches (inclined),3,10,6,,"Incline 1-2
+me: 10 oblique both sides, 10 regular",exercise,1787871144870-envbwzjjz,,,,
+Lazy day,Machine Incline Press,4,8,0,,,exercise,1786388539192-ehw19p9dq,,,,
+Lazy day,Weird Machine Rows,4,8,1,,,exercise,1786388539192-8wx9wffxh,,,,
+Lazy day,Weird Machine Pull Down,4,8,2,,,exercise,1786388539193-d2qjfkbmc,,,,
+Lazy day,Weird Machine Military,4,8,3,,,exercise,1786388539193-swli1om10,,,,
+Lazy day,Machine Chest Press,4,8,4,,,exercise,1786388539193-dnct3z99y,,,,
+Lazy day,Machine Tricep Extension,4,8,5,,,exercise,1786388539193-cobcbt1bn,,,,
+Leg day,Lunges,4,8,0,,,exercise,1786388539193-3t4fbchmd,,,,
+Leg day,Squat Lunges,4,8,1,,,exercise,1786388539193-r9hi8yhop,,,,
+Leg day,Side Squat,4,8,2,,,exercise,1786388539193-ijhba7pu3,,,,
+Leg day,Squat,4,8,3,,,exercise,1786388539193-4gs0wvfc1,,,,
+Leg day,Calf Raises,4,20,4,,,exercise,1786388539193-k6qhco5sw,,,,
+Leg day,Leg Curl,4,8,5,,,exercise,1786388539193-upgn7yo0b,,,,
+Leg day,Leg Extension,4,8,6,,,exercise,1786388539193-t5pyshfjm,,,,
+Leg day,Leg Press,4,8,7,,,exercise,1786388539193-y5a7f1f2o,,,,
+Pull,The Clap,4,8,0,,,exercise,1786388539193-9k2fuwod7,,,,
+Pull,Rear Delt Flies,4,5,1,,,exercise,1786388539193-gvs96th4g,,,,
+Pull,Curls,4,8,2,,,exercise,1786388539194-aj2opandb,,,,
+Pull,Lat Pulldown,4,8,3,,,exercise,1786388539194-f7x10srpq,,,,
+Pull,Rows,4,8,4,,,exercise,1786388539194-7to684jg9,,,,
+Pull,Preacher Curls,4,8,5,,,exercise,1786388539194-t9730a1nl,,,,
+Pull,Inclined Sit-ups,4,8,6,,,exercise,1786388539194-ha6r3zbwf,,,,
+Pull,Backbreaker,4,8,7,,,exercise,1786388539194-w694orw7k,,,,
+Pull,Machine Rows,4,8,8,,,exercise,1786388539194-pdv6j2sqg,,,,
+Push,Push-ups,4,8,0,,,exercise,1786388539194-72o4z44bg,,,,
+Push,Sit-ups,4,8,1,,,exercise,1786388539194-gutsuabxi,,,,
+Push,Press,3,8,2,,,exercise,1786388539194-33a7n0sqd,,,,
+Push,Tricep Extension,3,8,3,,,exercise,1786388539194-elxphpjez,,,,
+Push,Overhead Tricep,4,8,4,,,exercise,1786388539194-256ngqovv,,,,
+Push,Lateral Raises,4,8,5,,,exercise,1786388539194-4rxyf14lz,,,,
+Push,Tricep Push Down,4,8,6,,,exercise,1786388539194-zs3th39d5,,,,
+Push,Military Press,4,8,7,,,exercise,1786388539194-nadeeohdb,,,,
+Push,DB Bench Press,4,8,8,,,exercise,1786388539195-yhum33g69,,,,
+# working_weights
+person_name,exercise_name,weight,kind
+workout buddy,Single Arm pulls,9000,working
+workout buddy,Clean things,65,working
+workout buddy,Leg Press,330,working
+workout buddy,Bench machine,115,working
+workout buddy,Kettle Bell Rotations,35,working
+workout buddy,Run,0,working
+workout buddy,Bulgarian Split Squats,32.5,working
+workout buddy,Machine Rows,112.5,working
+workout buddy,Grippy Bois,55,working
+workout buddy,Swing Squat Clean Circuit,10,working
+workout buddy,The Clap,32.5,working
+workout buddy,Rear Delt Flies,20,working
+workout buddy,Calves Got Out,24,working
+workout buddy,Machine Curls,80,working
+workout buddy,Back Breakers,32.5,working
+workout buddy,Preacher Curls,69,working
+me,Back stretches,0,working
+me,Single Arm pulls,9000,working
+me,Calf Raises,80,working
+me,Leg Curl,70,working
+me,Leg Extension,50,working
+me,Leg Press,372.5,working
+me,Press,12,working
+me,Tricep Extension,55,working
+me,Overhead Tricep,25,working
+me,Lateral Raises,5,working
+me,Tricep Push Down,20,working
+me,Military Press,20,working
+me,Bench,25,working
+me,The Clap,15,working
+me,Rear Delt Flies,20,working
+me,Curls,15,working
+me,Lat Pulldown,70,working
+me,Rows,25,working
+me,Preacher Curls,30,working
+me,Backbreaker,25,working
+me,Machine Rows,90,working
+me,Machine Incline Press,50,working
+me,Weird Machine Rows,40,working
+me,Weird Machine Pull Down,50,working
+me,Weird Machine Military,40,working
+me,Machine Chest Press,50,working
+me,Machine Tricep Extension,55,working
+me,Clean things,55,working
+me,Bench machine,90,working
+me,Kettle Bell Rotations,32.5,working
+me,DB Bench Press,25,working
+me,Bulgarian Split Squats,27.5,working
+me,Lat Pulldowns,212.5,working
+me,Grippy Bois,47.5,working
+me,Swing Squat Clean Circuit,12,working
+me,Calves Got Out,21,working
+me,Machine Curls,120,working
+me,Back Breakers,32.5,working
+me,Inclined Situps,15,working
+me,Warmup,8,working
+me,Shoulder press,30,working
+workout buddy,Shoulder press,40,working
+me,Ab Ball Toss Situps,6,working
+workout buddy,Ab Ball Toss Situps,6,working
+# weight_logs
+person_name,exercise_name,weight,unit,logged_at_iso,kind
+me,Warmup,7,lb,2026-06-15T23:00:00.000Z,working
+me,Clean things,50,lb,2026-06-15T23:01:00.000Z,working
+workout buddy,Clean things,60,lb,2026-06-15T23:01:00.000Z,working
+me,Bench machine,90,lb,2026-06-15T23:02:00.000Z,working
+workout buddy,Bench machine,100,lb,2026-06-15T23:02:00.000Z,working
+me,Leg Press,320,lb,2026-06-15T23:03:00.000Z,working
+workout buddy,Leg Press,330,lb,2026-06-15T23:03:00.000Z,working
+me,Rear Delt Flies,16,lb,2026-06-15T23:04:00.000Z,working
+workout buddy,Rear Delt Flies,15,lb,2026-06-15T23:04:00.000Z,working
+me,The Clap,15,lb,2026-06-15T23:05:00.000Z,working
+workout buddy,The Clap,25,lb,2026-06-15T23:05:00.000Z,working
+me,Shoulder press,25,lb,2026-06-15T23:06:00.000Z,working
+workout buddy,Shoulder press,30,lb,2026-06-15T23:06:00.000Z,working
+me,Ab Ball Toss Situps,6,lb,2026-06-15T23:07:00.000Z,working
+workout buddy,Ab Ball Toss Situps,6,lb,2026-06-15T23:07:00.000Z,working
+me,Warmup,7,lb,2026-06-17T23:00:00.000Z,working
+me,Bulgarian Split Squats,25,lb,2026-06-17T23:01:00.000Z,working
+workout buddy,Bulgarian Split Squats,30,lb,2026-06-17T23:01:00.000Z,working
+me,Machine Rows,70,lb,2026-06-17T23:02:00.000Z,working
+workout buddy,Machine Rows,90,lb,2026-06-17T23:02:00.000Z,working
+me,Lat Pulldowns,180,lb,2026-06-17T23:03:00.000Z,working
+me,Grippy Bois,45,lb,2026-06-17T23:04:00.000Z,working
+workout buddy,Grippy Bois,45,lb,2026-06-17T23:04:00.000Z,working
+me,Warmup,7,lb,2026-06-19T23:00:00.000Z,working
+me,Swing Squat Clean Circuit,10,lb,2026-06-19T23:01:00.000Z,working
+workout buddy,Swing Squat Clean Circuit,10,lb,2026-06-19T23:01:00.000Z,working
+me,Kettle Bell Rotations,32.5,lb,2026-06-19T23:02:00.000Z,working
+workout buddy,Kettle Bell Rotations,30,lb,2026-06-19T23:02:00.000Z,working
+me,Machine Curls,90,lb,2026-06-19T23:03:00.000Z,working
+workout buddy,Machine Curls,80,lb,2026-06-19T23:03:00.000Z,working
+me,Calves Got Out,20,lb,2026-06-19T23:04:00.000Z,working
+workout buddy,Calves Got Out,20,lb,2026-06-19T23:04:00.000Z,working
+me,Back Breakers,32.5,lb,2026-06-19T23:05:00.000Z,working
+workout buddy,Back Breakers,30,lb,2026-06-19T23:05:00.000Z,working
+me,Warmup,7,lb,2026-06-22T23:00:00.000Z,working
+me,Clean things,50,lb,2026-06-22T23:01:00.000Z,working
+workout buddy,Clean things,60,lb,2026-06-22T23:01:00.000Z,working
+me,Bench machine,90,lb,2026-06-22T23:02:00.000Z,working
+workout buddy,Bench machine,105,lb,2026-06-22T23:02:00.000Z,working
+me,Leg Press,320,lb,2026-06-22T23:03:00.000Z,working
+workout buddy,Leg Press,330,lb,2026-06-22T23:03:00.000Z,working
+me,Rear Delt Flies,16,lb,2026-06-22T23:04:00.000Z,working
+workout buddy,Rear Delt Flies,15,lb,2026-06-22T23:04:00.000Z,working
+me,The Clap,15,lb,2026-06-22T23:05:00.000Z,working
+workout buddy,The Clap,25,lb,2026-06-22T23:05:00.000Z,working
+me,Shoulder press,25,lb,2026-06-22T23:06:00.000Z,working
+workout buddy,Shoulder press,32.5,lb,2026-06-22T23:06:00.000Z,working
+me,Ab Ball Toss Situps,6,lb,2026-06-22T23:07:00.000Z,working
+workout buddy,Ab Ball Toss Situps,6,lb,2026-06-22T23:07:00.000Z,working
+me,Warmup,7,lb,2026-06-24T23:00:00.000Z,working
+me,Bulgarian Split Squats,25,lb,2026-06-24T23:01:00.000Z,working
+workout buddy,Bulgarian Split Squats,30,lb,2026-06-24T23:01:00.000Z,working
+me,Machine Rows,70,lb,2026-06-24T23:02:00.000Z,working
+workout buddy,Machine Rows,90,lb,2026-06-24T23:02:00.000Z,working
+me,Lat Pulldowns,192.5,lb,2026-06-24T23:03:00.000Z,working
+me,Grippy Bois,45,lb,2026-06-24T23:04:00.000Z,working
+workout buddy,Grippy Bois,47.5,lb,2026-06-24T23:04:00.000Z,working
+me,Warmup,7,lb,2026-06-26T23:00:00.000Z,working
+me,Swing Squat Clean Circuit,10,lb,2026-06-26T23:01:00.000Z,working
+workout buddy,Swing Squat Clean Circuit,10,lb,2026-06-26T23:01:00.000Z,working
+me,Kettle Bell Rotations,32.5,lb,2026-06-26T23:02:00.000Z,working
+workout buddy,Kettle Bell Rotations,32.5,lb,2026-06-26T23:02:00.000Z,working
+me,Machine Curls,100,lb,2026-06-26T23:03:00.000Z,working
+workout buddy,Machine Curls,80,lb,2026-06-26T23:03:00.000Z,working
+me,Calves Got Out,20,lb,2026-06-26T23:04:00.000Z,working
+workout buddy,Calves Got Out,20,lb,2026-06-26T23:04:00.000Z,working
+me,Back Breakers,32.5,lb,2026-06-26T23:05:00.000Z,working
+workout buddy,Back Breakers,30,lb,2026-06-26T23:05:00.000Z,working
+me,Warmup,7,lb,2026-06-29T23:00:00.000Z,working
+me,Clean things,50,lb,2026-06-29T23:01:00.000Z,working
+workout buddy,Clean things,60,lb,2026-06-29T23:01:00.000Z,working
+me,Bench machine,90,lb,2026-06-29T23:02:00.000Z,working
+workout buddy,Bench machine,110,lb,2026-06-29T23:02:00.000Z,working
+me,Leg Press,320,lb,2026-06-29T23:03:00.000Z,working
+workout buddy,Leg Press,330,lb,2026-06-29T23:03:00.000Z,working
+me,Rear Delt Flies,16,lb,2026-06-29T23:04:00.000Z,working
+workout buddy,Rear Delt Flies,17,lb,2026-06-29T23:04:00.000Z,working
+me,The Clap,15,lb,2026-06-29T23:05:00.000Z,working
+workout buddy,The Clap,27.5,lb,2026-06-29T23:05:00.000Z,working
+me,Shoulder press,25,lb,2026-06-29T23:06:00.000Z,working
+workout buddy,Shoulder press,32.5,lb,2026-06-29T23:06:00.000Z,working
+me,Ab Ball Toss Situps,6,lb,2026-06-29T23:07:00.000Z,working
+workout buddy,Ab Ball Toss Situps,6,lb,2026-06-29T23:07:00.000Z,working
+me,Warmup,7,lb,2026-07-01T23:00:00.000Z,working
+me,Bulgarian Split Squats,25,lb,2026-07-01T23:01:00.000Z,working
+workout buddy,Bulgarian Split Squats,30,lb,2026-07-01T23:01:00.000Z,working
+me,Machine Rows,70,lb,2026-07-01T23:02:00.000Z,working
+workout buddy,Machine Rows,97.5,lb,2026-07-01T23:02:00.000Z,working
+me,Lat Pulldowns,192.5,lb,2026-07-01T23:03:00.000Z,working
+me,Grippy Bois,45,lb,2026-07-01T23:04:00.000Z,working
+workout buddy,Grippy Bois,47.5,lb,2026-07-01T23:04:00.000Z,working
+me,Warmup,7,lb,2026-07-03T23:00:00.000Z,working
+me,Swing Squat Clean Circuit,10,lb,2026-07-03T23:01:00.000Z,working
+workout buddy,Swing Squat Clean Circuit,10,lb,2026-07-03T23:01:00.000Z,working
+me,Kettle Bell Rotations,32.5,lb,2026-07-03T23:02:00.000Z,working
+workout buddy,Kettle Bell Rotations,32.5,lb,2026-07-03T23:02:00.000Z,working
+me,Machine Curls,107.5,lb,2026-07-03T23:03:00.000Z,working
+workout buddy,Machine Curls,80,lb,2026-07-03T23:03:00.000Z,working
+me,Calves Got Out,20,lb,2026-07-03T23:04:00.000Z,working
+workout buddy,Calves Got Out,20,lb,2026-07-03T23:04:00.000Z,working
+me,Back Breakers,32.5,lb,2026-07-03T23:05:00.000Z,working
+workout buddy,Back Breakers,30,lb,2026-07-03T23:05:00.000Z,working
+me,Warmup,7,lb,2026-07-06T23:00:00.000Z,working
+me,Clean things,55,lb,2026-07-06T23:01:00.000Z,working
+workout buddy,Clean things,60,lb,2026-07-06T23:01:00.000Z,working
+me,Bench machine,90,lb,2026-07-06T23:02:00.000Z,working
+workout buddy,Bench machine,110,lb,2026-07-06T23:02:00.000Z,working
+me,Leg Press,342.5,lb,2026-07-06T23:03:00.000Z,working
+workout buddy,Leg Press,330,lb,2026-07-06T23:03:00.000Z,working
+me,Rear Delt Flies,16,lb,2026-07-06T23:04:00.000Z,working
+workout buddy,Rear Delt Flies,17,lb,2026-07-06T23:04:00.000Z,working
+me,The Clap,15,lb,2026-07-06T23:05:00.000Z,working
+workout buddy,The Clap,27.5,lb,2026-07-06T23:05:00.000Z,working
+me,Shoulder press,25,lb,2026-07-06T23:06:00.000Z,working
+workout buddy,Shoulder press,32.5,lb,2026-07-06T23:06:00.000Z,working
+me,Ab Ball Toss Situps,6,lb,2026-07-06T23:07:00.000Z,working
+workout buddy,Ab Ball Toss Situps,6,lb,2026-07-06T23:07:00.000Z,working
+me,Warmup,7,lb,2026-07-08T23:00:00.000Z,working
+me,Bulgarian Split Squats,25,lb,2026-07-08T23:01:00.000Z,working
+workout buddy,Bulgarian Split Squats,30,lb,2026-07-08T23:01:00.000Z,working
+me,Machine Rows,70,lb,2026-07-08T23:02:00.000Z,working
+workout buddy,Machine Rows,97.5,lb,2026-07-08T23:02:00.000Z,working
+me,Lat Pulldowns,195,lb,2026-07-08T23:03:00.000Z,working
+me,Grippy Bois,45,lb,2026-07-08T23:04:00.000Z,working
+workout buddy,Grippy Bois,47.5,lb,2026-07-08T23:04:00.000Z,working
+me,Warmup,7,lb,2026-07-10T23:00:00.000Z,working
+me,Swing Squat Clean Circuit,10,lb,2026-07-10T23:01:00.000Z,working
+workout buddy,Swing Squat Clean Circuit,10,lb,2026-07-10T23:01:00.000Z,working
+me,Kettle Bell Rotations,32.5,lb,2026-07-10T23:02:00.000Z,working
+workout buddy,Kettle Bell Rotations,32.5,lb,2026-07-10T23:02:00.000Z,working
+me,Machine Curls,107.5,lb,2026-07-10T23:03:00.000Z,working
+workout buddy,Machine Curls,80,lb,2026-07-10T23:03:00.000Z,working
+me,Calves Got Out,20,lb,2026-07-10T23:04:00.000Z,working
+workout buddy,Calves Got Out,20,lb,2026-07-10T23:04:00.000Z,working
+me,Back Breakers,32.5,lb,2026-07-10T23:05:00.000Z,working
+workout buddy,Back Breakers,30,lb,2026-07-10T23:05:00.000Z,working
+me,Warmup,7,lb,2026-07-13T23:00:00.000Z,working
+me,Clean things,55,lb,2026-07-13T23:01:00.000Z,working
+workout buddy,Clean things,60,lb,2026-07-13T23:01:00.000Z,working
+me,Bench machine,90,lb,2026-07-13T23:02:00.000Z,working
+workout buddy,Bench machine,110,lb,2026-07-13T23:02:00.000Z,working
+me,Leg Press,342.5,lb,2026-07-13T23:03:00.000Z,working
+workout buddy,Leg Press,330,lb,2026-07-13T23:03:00.000Z,working
+me,Rear Delt Flies,16,lb,2026-07-13T23:04:00.000Z,working
+workout buddy,Rear Delt Flies,19,lb,2026-07-13T23:04:00.000Z,working
+me,The Clap,15,lb,2026-07-13T23:05:00.000Z,working
+workout buddy,The Clap,27.5,lb,2026-07-13T23:05:00.000Z,working
+me,Shoulder press,25,lb,2026-07-13T23:06:00.000Z,working
+workout buddy,Shoulder press,32.5,lb,2026-07-13T23:06:00.000Z,working
+me,Ab Ball Toss Situps,6,lb,2026-07-13T23:07:00.000Z,working
+workout buddy,Ab Ball Toss Situps,6,lb,2026-07-13T23:07:00.000Z,working
+me,Warmup,7,lb,2026-07-15T23:00:00.000Z,working
+me,Bulgarian Split Squats,25,lb,2026-07-15T23:01:00.000Z,working
+workout buddy,Bulgarian Split Squats,30,lb,2026-07-15T23:01:00.000Z,working
+me,Machine Rows,75,lb,2026-07-15T23:02:00.000Z,working
+workout buddy,Machine Rows,102.5,lb,2026-07-15T23:02:00.000Z,working
+me,Lat Pulldowns,195,lb,2026-07-15T23:03:00.000Z,working
+me,Grippy Bois,47.5,lb,2026-07-15T23:04:00.000Z,working
+workout buddy,Grippy Bois,47.5,lb,2026-07-15T23:04:00.000Z,working
+me,Warmup,7,lb,2026-07-17T23:00:00.000Z,working
+me,Swing Squat Clean Circuit,11,lb,2026-07-17T23:01:00.000Z,working
+workout buddy,Swing Squat Clean Circuit,10,lb,2026-07-17T23:01:00.000Z,working
+me,Kettle Bell Rotations,32.5,lb,2026-07-17T23:02:00.000Z,working
+workout buddy,Kettle Bell Rotations,32.5,lb,2026-07-17T23:02:00.000Z,working
+me,Machine Curls,107.5,lb,2026-07-17T23:03:00.000Z,working
+workout buddy,Machine Curls,80,lb,2026-07-17T23:03:00.000Z,working
+me,Calves Got Out,20,lb,2026-07-17T23:04:00.000Z,working
+workout buddy,Calves Got Out,20,lb,2026-07-17T23:04:00.000Z,working
+me,Back Breakers,32.5,lb,2026-07-17T23:05:00.000Z,working
+workout buddy,Back Breakers,30,lb,2026-07-17T23:05:00.000Z,working
+me,Warmup,7,lb,2026-07-20T23:00:00.000Z,working
+me,Clean things,55,lb,2026-07-20T23:01:00.000Z,working
+workout buddy,Clean things,60,lb,2026-07-20T23:01:00.000Z,working
+me,Bench machine,90,lb,2026-07-20T23:02:00.000Z,working
+workout buddy,Bench machine,110,lb,2026-07-20T23:02:00.000Z,working
+me,Leg Press,345,lb,2026-07-20T23:03:00.000Z,working
+workout buddy,Leg Press,330,lb,2026-07-20T23:03:00.000Z,working
+me,Rear Delt Flies,17,lb,2026-07-20T23:04:00.000Z,working
+workout buddy,Rear Delt Flies,19,lb,2026-07-20T23:04:00.000Z,working
+me,The Clap,15,lb,2026-07-20T23:05:00.000Z,working
+workout buddy,The Clap,27.5,lb,2026-07-20T23:05:00.000Z,working
+me,Shoulder press,25,lb,2026-07-20T23:06:00.000Z,working
+workout buddy,Shoulder press,35,lb,2026-07-20T23:06:00.000Z,working
+me,Ab Ball Toss Situps,6,lb,2026-07-20T23:07:00.000Z,working
+workout buddy,Ab Ball Toss Situps,6,lb,2026-07-20T23:07:00.000Z,working
+me,Warmup,7,lb,2026-07-22T23:00:00.000Z,working
+me,Bulgarian Split Squats,25,lb,2026-07-22T23:01:00.000Z,working
+workout buddy,Bulgarian Split Squats,30,lb,2026-07-22T23:01:00.000Z,working
+me,Machine Rows,75,lb,2026-07-22T23:02:00.000Z,working
+workout buddy,Machine Rows,102.5,lb,2026-07-22T23:02:00.000Z,working
+me,Lat Pulldowns,195,lb,2026-07-22T23:03:00.000Z,working
+me,Grippy Bois,47.5,lb,2026-07-22T23:04:00.000Z,working
+workout buddy,Grippy Bois,47.5,lb,2026-07-22T23:04:00.000Z,working
+me,Warmup,7,lb,2026-07-24T23:00:00.000Z,working
+me,Swing Squat Clean Circuit,11,lb,2026-07-24T23:01:00.000Z,working
+workout buddy,Swing Squat Clean Circuit,10,lb,2026-07-24T23:01:00.000Z,working
+me,Kettle Bell Rotations,32.5,lb,2026-07-24T23:02:00.000Z,working
+workout buddy,Kettle Bell Rotations,32.5,lb,2026-07-24T23:02:00.000Z,working
+me,Machine Curls,107.5,lb,2026-07-24T23:03:00.000Z,working
+workout buddy,Machine Curls,80,lb,2026-07-24T23:03:00.000Z,working
+me,Calves Got Out,20,lb,2026-07-24T23:04:00.000Z,working
+workout buddy,Calves Got Out,21,lb,2026-07-24T23:04:00.000Z,working
+me,Back Breakers,32.5,lb,2026-07-24T23:05:00.000Z,working
+workout buddy,Back Breakers,30,lb,2026-07-24T23:05:00.000Z,working
+me,Warmup,7,lb,2026-07-27T23:00:00.000Z,working
+me,Clean things,55,lb,2026-07-27T23:01:00.000Z,working
+workout buddy,Clean things,60,lb,2026-07-27T23:01:00.000Z,working
+me,Bench machine,90,lb,2026-07-27T23:02:00.000Z,working
+workout buddy,Bench machine,110,lb,2026-07-27T23:02:00.000Z,working
+me,Leg Press,345,lb,2026-07-27T23:03:00.000Z,working
+workout buddy,Leg Press,330,lb,2026-07-27T23:03:00.000Z,working
+me,Rear Delt Flies,17,lb,2026-07-27T23:04:00.000Z,working
+workout buddy,Rear Delt Flies,19,lb,2026-07-27T23:04:00.000Z,working
+me,The Clap,15,lb,2026-07-27T23:05:00.000Z,working
+workout buddy,The Clap,30,lb,2026-07-27T23:05:00.000Z,working
+me,Shoulder press,27.5,lb,2026-07-27T23:06:00.000Z,working
+workout buddy,Shoulder press,37.5,lb,2026-07-27T23:06:00.000Z,working
+me,Ab Ball Toss Situps,6,lb,2026-07-27T23:07:00.000Z,working
+workout buddy,Ab Ball Toss Situps,6,lb,2026-07-27T23:07:00.000Z,working
+me,Warmup,7,lb,2026-07-29T23:00:00.000Z,working
+me,Bulgarian Split Squats,25,lb,2026-07-29T23:01:00.000Z,working
+workout buddy,Bulgarian Split Squats,30,lb,2026-07-29T23:01:00.000Z,working
+me,Machine Rows,75,lb,2026-07-29T23:02:00.000Z,working
+workout buddy,Machine Rows,110,lb,2026-07-29T23:02:00.000Z,working
+me,Lat Pulldowns,195,lb,2026-07-29T23:03:00.000Z,working
+me,Grippy Bois,47.5,lb,2026-07-29T23:04:00.000Z,working
+workout buddy,Grippy Bois,50,lb,2026-07-29T23:04:00.000Z,working
+me,Warmup,7,lb,2026-07-31T23:00:00.000Z,working
+me,Swing Squat Clean Circuit,11,lb,2026-07-31T23:01:00.000Z,working
+workout buddy,Swing Squat Clean Circuit,10,lb,2026-07-31T23:01:00.000Z,working
+me,Kettle Bell Rotations,32.5,lb,2026-07-31T23:02:00.000Z,working
+workout buddy,Kettle Bell Rotations,32.5,lb,2026-07-31T23:02:00.000Z,working
+me,Machine Curls,112.5,lb,2026-07-31T23:03:00.000Z,working
+workout buddy,Machine Curls,80,lb,2026-07-31T23:03:00.000Z,working
+me,Calves Got Out,20,lb,2026-07-31T23:04:00.000Z,working
+workout buddy,Calves Got Out,23,lb,2026-07-31T23:04:00.000Z,working
+me,Back Breakers,32.5,lb,2026-07-31T23:05:00.000Z,working
+workout buddy,Back Breakers,30,lb,2026-07-31T23:05:00.000Z,working
+me,Warmup,7,lb,2026-08-03T23:00:00.000Z,working
+me,Clean things,55,lb,2026-08-03T23:01:00.000Z,working
+workout buddy,Clean things,60,lb,2026-08-03T23:01:00.000Z,working
+me,Bench machine,90,lb,2026-08-03T23:02:00.000Z,working
+workout buddy,Bench machine,110,lb,2026-08-03T23:02:00.000Z,working
+me,Leg Press,345,lb,2026-08-03T23:03:00.000Z,working
+workout buddy,Leg Press,330,lb,2026-08-03T23:03:00.000Z,working
+me,Rear Delt Flies,17,lb,2026-08-03T23:04:00.000Z,working
+workout buddy,Rear Delt Flies,19,lb,2026-08-03T23:04:00.000Z,working
+me,The Clap,15,lb,2026-08-03T23:05:00.000Z,working
+workout buddy,The Clap,30,lb,2026-08-03T23:05:00.000Z,working
+me,Shoulder press,27.5,lb,2026-08-03T23:06:00.000Z,working
+workout buddy,Shoulder press,37.5,lb,2026-08-03T23:06:00.000Z,working
+me,Ab Ball Toss Situps,6,lb,2026-08-03T23:07:00.000Z,working
+workout buddy,Ab Ball Toss Situps,6,lb,2026-08-03T23:07:00.000Z,working
+me,Warmup,7,lb,2026-08-05T23:00:00.000Z,working
+me,Bulgarian Split Squats,25,lb,2026-08-05T23:01:00.000Z,working
+workout buddy,Bulgarian Split Squats,30,lb,2026-08-05T23:01:00.000Z,working
+me,Machine Rows,75,lb,2026-08-05T23:02:00.000Z,working
+workout buddy,Machine Rows,110,lb,2026-08-05T23:02:00.000Z,working
+me,Lat Pulldowns,195,lb,2026-08-05T23:03:00.000Z,working
+me,Grippy Bois,47.5,lb,2026-08-05T23:04:00.000Z,working
+workout buddy,Grippy Bois,50,lb,2026-08-05T23:04:00.000Z,working
+me,Warmup,7,lb,2026-08-07T23:00:00.000Z,working
+me,Swing Squat Clean Circuit,11,lb,2026-08-07T23:01:00.000Z,working
+workout buddy,Swing Squat Clean Circuit,10,lb,2026-08-07T23:01:00.000Z,working
+me,Kettle Bell Rotations,32.5,lb,2026-08-07T23:02:00.000Z,working
+workout buddy,Kettle Bell Rotations,32.5,lb,2026-08-07T23:02:00.000Z,working
+me,Machine Curls,112.5,lb,2026-08-07T23:03:00.000Z,working
+workout buddy,Machine Curls,80,lb,2026-08-07T23:03:00.000Z,working
+me,Calves Got Out,20,lb,2026-08-07T23:04:00.000Z,working
+workout buddy,Calves Got Out,23,lb,2026-08-07T23:04:00.000Z,working
+me,Back Breakers,32.5,lb,2026-08-07T23:05:00.000Z,working
+workout buddy,Back Breakers,30,lb,2026-08-07T23:05:00.000Z,working
+me,Warmup,7,lb,2026-08-10T23:00:00.000Z,working
+me,Clean things,55,lb,2026-08-10T23:01:00.000Z,working
+workout buddy,Clean things,60,lb,2026-08-10T23:01:00.000Z,working
+me,Bench machine,90,lb,2026-08-10T23:02:00.000Z,working
+workout buddy,Bench machine,110,lb,2026-08-10T23:02:00.000Z,working
+me,Leg Press,345,lb,2026-08-10T23:03:00.000Z,working
+workout buddy,Leg Press,330,lb,2026-08-10T23:03:00.000Z,working
+me,Rear Delt Flies,17,lb,2026-08-10T23:04:00.000Z,working
+workout buddy,Rear Delt Flies,20,lb,2026-08-10T23:04:00.000Z,working
+me,The Clap,15,lb,2026-08-10T23:05:00.000Z,working
+workout buddy,The Clap,30,lb,2026-08-10T23:05:00.000Z,working
+me,Shoulder press,27.5,lb,2026-08-10T23:06:00.000Z,working
+workout buddy,Shoulder press,37.5,lb,2026-08-10T23:06:00.000Z,working
+me,Ab Ball Toss Situps,6,lb,2026-08-10T23:07:00.000Z,working
+workout buddy,Ab Ball Toss Situps,6,lb,2026-08-10T23:07:00.000Z,working
+me,Warmup,7,lb,2026-08-12T23:00:00.000Z,working
+me,Bulgarian Split Squats,25,lb,2026-08-12T23:01:00.000Z,working
+workout buddy,Bulgarian Split Squats,30,lb,2026-08-12T23:01:00.000Z,working
+me,Machine Rows,75,lb,2026-08-12T23:02:00.000Z,working
+workout buddy,Machine Rows,110,lb,2026-08-12T23:02:00.000Z,working
+me,Lat Pulldowns,195,lb,2026-08-12T23:03:00.000Z,working
+me,Grippy Bois,47.5,lb,2026-08-12T23:04:00.000Z,working
+workout buddy,Grippy Bois,50,lb,2026-08-12T23:04:00.000Z,working
+me,Warmup,7,lb,2026-08-14T23:00:00.000Z,working
+me,Swing Squat Clean Circuit,11,lb,2026-08-14T23:01:00.000Z,working
+workout buddy,Swing Squat Clean Circuit,10,lb,2026-08-14T23:01:00.000Z,working
+me,Kettle Bell Rotations,32.5,lb,2026-08-14T23:02:00.000Z,working
+workout buddy,Kettle Bell Rotations,35,lb,2026-08-14T23:02:00.000Z,working
+me,Machine Curls,112.5,lb,2026-08-14T23:03:00.000Z,working
+workout buddy,Machine Curls,80,lb,2026-08-14T23:03:00.000Z,working
+me,Calves Got Out,20,lb,2026-08-14T23:04:00.000Z,working
+workout buddy,Calves Got Out,23,lb,2026-08-14T23:04:00.000Z,working
+me,Back Breakers,32.5,lb,2026-08-14T23:05:00.000Z,working
+workout buddy,Back Breakers,30,lb,2026-08-14T23:05:00.000Z,working
+me,Warmup,7,lb,2026-08-17T23:00:00.000Z,working
+me,Clean things,55,lb,2026-08-17T23:01:00.000Z,working
+workout buddy,Clean things,60,lb,2026-08-17T23:01:00.000Z,working
+me,Bench machine,90,lb,2026-08-17T23:02:00.000Z,working
+workout buddy,Bench machine,110,lb,2026-08-17T23:02:00.000Z,working
+me,Leg Press,345,lb,2026-08-17T23:03:00.000Z,working
+workout buddy,Leg Press,330,lb,2026-08-17T23:03:00.000Z,working
+me,Rear Delt Flies,17,lb,2026-08-17T23:04:00.000Z,working
+workout buddy,Rear Delt Flies,20,lb,2026-08-17T23:04:00.000Z,working
+me,The Clap,15,lb,2026-08-17T23:05:00.000Z,working
+workout buddy,The Clap,30,lb,2026-08-17T23:05:00.000Z,working
+me,Shoulder press,27.5,lb,2026-08-17T23:06:00.000Z,working
+workout buddy,Shoulder press,37.5,lb,2026-08-17T23:06:00.000Z,working
+me,Ab Ball Toss Situps,6,lb,2026-08-17T23:07:00.000Z,working
+workout buddy,Ab Ball Toss Situps,6,lb,2026-08-17T23:07:00.000Z,working
+me,Warmup,7,lb,2026-08-19T23:00:00.000Z,working
+me,Bulgarian Split Squats,25,lb,2026-08-19T23:01:00.000Z,working
+workout buddy,Bulgarian Split Squats,30,lb,2026-08-19T23:01:00.000Z,working
+me,Machine Rows,77.5,lb,2026-08-19T23:02:00.000Z,working
+workout buddy,Machine Rows,110,lb,2026-08-19T23:02:00.000Z,working
+me,Lat Pulldowns,195,lb,2026-08-19T23:03:00.000Z,working
+me,Grippy Bois,47.5,lb,2026-08-19T23:04:00.000Z,working
+workout buddy,Grippy Bois,50,lb,2026-08-19T23:04:00.000Z,working
+me,Warmup,7,lb,2026-08-21T23:00:00.000Z,working
+me,Swing Squat Clean Circuit,11,lb,2026-08-21T23:01:00.000Z,working
+workout buddy,Swing Squat Clean Circuit,10,lb,2026-08-21T23:01:00.000Z,working
+me,Kettle Bell Rotations,32.5,lb,2026-08-21T23:02:00.000Z,working
+workout buddy,Kettle Bell Rotations,35,lb,2026-08-21T23:02:00.000Z,working
+me,Machine Curls,112.5,lb,2026-08-21T23:03:00.000Z,working
+workout buddy,Machine Curls,80,lb,2026-08-21T23:03:00.000Z,working
+me,Calves Got Out,20,lb,2026-08-21T23:04:00.000Z,working
+workout buddy,Calves Got Out,23,lb,2026-08-21T23:04:00.000Z,working
+me,Back Breakers,32.5,lb,2026-08-21T23:05:00.000Z,working
+workout buddy,Back Breakers,30,lb,2026-08-21T23:05:00.000Z,working
+me,Warmup,8,lb,2026-08-24T23:00:00.000Z,working
+me,Clean things,55,lb,2026-08-24T23:01:00.000Z,working
+workout buddy,Clean things,60,lb,2026-08-24T23:01:00.000Z,working
+me,Bench machine,90,lb,2026-08-24T23:02:00.000Z,working
+workout buddy,Bench machine,112.5,lb,2026-08-24T23:02:00.000Z,working
+me,Leg Press,347.5,lb,2026-08-24T23:03:00.000Z,working
+workout buddy,Leg Press,330,lb,2026-08-24T23:03:00.000Z,working
+me,Rear Delt Flies,18,lb,2026-08-24T23:04:00.000Z,working
+workout buddy,Rear Delt Flies,20,lb,2026-08-24T23:04:00.000Z,working
+me,The Clap,15,lb,2026-08-24T23:05:00.000Z,working
+workout buddy,The Clap,30,lb,2026-08-24T23:05:00.000Z,working
+me,Shoulder press,27.5,lb,2026-08-24T23:06:00.000Z,working
+workout buddy,Shoulder press,37.5,lb,2026-08-24T23:06:00.000Z,working
+me,Ab Ball Toss Situps,6,lb,2026-08-24T23:07:00.000Z,working
+workout buddy,Ab Ball Toss Situps,6,lb,2026-08-24T23:07:00.000Z,working
+me,Warmup,8,lb,2026-08-26T23:00:00.000Z,working
+me,Bulgarian Split Squats,25,lb,2026-08-26T23:01:00.000Z,working
+workout buddy,Bulgarian Split Squats,30,lb,2026-08-26T23:01:00.000Z,working
+me,Machine Rows,77.5,lb,2026-08-26T23:02:00.000Z,working
+workout buddy,Machine Rows,112.5,lb,2026-08-26T23:02:00.000Z,working
+me,Lat Pulldowns,195,lb,2026-08-26T23:03:00.000Z,working
+me,Grippy Bois,47.5,lb,2026-08-26T23:04:00.000Z,working
+workout buddy,Grippy Bois,50,lb,2026-08-26T23:04:00.000Z,working
+me,Warmup,8,lb,2026-08-28T23:00:00.000Z,working
+me,Swing Squat Clean Circuit,12,lb,2026-08-28T23:01:00.000Z,working
+workout buddy,Swing Squat Clean Circuit,10,lb,2026-08-28T23:01:00.000Z,working
+me,Kettle Bell Rotations,32.5,lb,2026-08-28T23:02:00.000Z,working
+workout buddy,Kettle Bell Rotations,35,lb,2026-08-28T23:02:00.000Z,working
+me,Machine Curls,112.5,lb,2026-08-28T23:03:00.000Z,working
+workout buddy,Machine Curls,80,lb,2026-08-28T23:03:00.000Z,working
+me,Calves Got Out,20,lb,2026-08-28T23:04:00.000Z,working
+workout buddy,Calves Got Out,23,lb,2026-08-28T23:04:00.000Z,working
+me,Back Breakers,32.5,lb,2026-08-28T23:05:00.000Z,working
+workout buddy,Back Breakers,32.5,lb,2026-08-28T23:05:00.000Z,working
+me,Warmup,8,lb,2026-08-31T23:00:00.000Z,working
+me,Clean things,55,lb,2026-08-31T23:01:00.000Z,working
+workout buddy,Clean things,65,lb,2026-08-31T23:01:00.000Z,working
+me,Bench machine,90,lb,2026-08-31T23:02:00.000Z,working
+workout buddy,Bench machine,115,lb,2026-08-31T23:02:00.000Z,working
+me,Leg Press,347.5,lb,2026-08-31T23:03:00.000Z,working
+workout buddy,Leg Press,330,lb,2026-08-31T23:03:00.000Z,working
+me,Rear Delt Flies,18,lb,2026-08-31T23:04:00.000Z,working
+workout buddy,Rear Delt Flies,20,lb,2026-08-31T23:04:00.000Z,working
+me,The Clap,15,lb,2026-08-31T23:05:00.000Z,working
+workout buddy,The Clap,30,lb,2026-08-31T23:05:00.000Z,working
+me,Shoulder press,30,lb,2026-08-31T23:06:00.000Z,working
+workout buddy,Shoulder press,37.5,lb,2026-08-31T23:06:00.000Z,working
+me,Ab Ball Toss Situps,6,lb,2026-08-31T23:07:00.000Z,working
+workout buddy,Ab Ball Toss Situps,6,lb,2026-08-31T23:07:00.000Z,working
+me,Warmup,8,lb,2026-09-02T23:00:00.000Z,working
+me,Bulgarian Split Squats,25,lb,2026-09-02T23:01:00.000Z,working
+workout buddy,Bulgarian Split Squats,30,lb,2026-09-02T23:01:00.000Z,working
+me,Machine Rows,80,lb,2026-09-02T23:02:00.000Z,working
+workout buddy,Machine Rows,112.5,lb,2026-09-02T23:02:00.000Z,working
+me,Lat Pulldowns,195,lb,2026-09-02T23:03:00.000Z,working
+me,Grippy Bois,47.5,lb,2026-09-02T23:04:00.000Z,working
+workout buddy,Grippy Bois,55,lb,2026-09-02T23:04:00.000Z,working
+me,Warmup,8,lb,2026-09-04T23:00:00.000Z,working
+me,Swing Squat Clean Circuit,12,lb,2026-09-04T23:01:00.000Z,working
+workout buddy,Swing Squat Clean Circuit,10,lb,2026-09-04T23:01:00.000Z,working
+me,Kettle Bell Rotations,32.5,lb,2026-09-04T23:02:00.000Z,working
+workout buddy,Kettle Bell Rotations,35,lb,2026-09-04T23:02:00.000Z,working
+me,Machine Curls,112.5,lb,2026-09-04T23:03:00.000Z,working
+workout buddy,Machine Curls,80,lb,2026-09-04T23:03:00.000Z,working
+me,Calves Got Out,21,lb,2026-09-04T23:04:00.000Z,working
+workout buddy,Calves Got Out,23,lb,2026-09-04T23:04:00.000Z,working
+me,Back Breakers,32.5,lb,2026-09-04T23:05:00.000Z,working
+workout buddy,Back Breakers,32.5,lb,2026-09-04T23:05:00.000Z,working
+me,Warmup,8,lb,2026-09-07T23:00:00.000Z,working
+me,Clean things,55,lb,2026-09-07T23:01:00.000Z,working
+workout buddy,Clean things,65,lb,2026-09-07T23:01:00.000Z,working
+me,Bench machine,90,lb,2026-09-07T23:02:00.000Z,working
+workout buddy,Bench machine,115,lb,2026-09-07T23:02:00.000Z,working
+me,Leg Press,347.5,lb,2026-09-07T23:03:00.000Z,working
+workout buddy,Leg Press,330,lb,2026-09-07T23:03:00.000Z,working
+me,Rear Delt Flies,20,lb,2026-09-07T23:04:00.000Z,working
+workout buddy,Rear Delt Flies,20,lb,2026-09-07T23:04:00.000Z,working
+me,The Clap,15,lb,2026-09-07T23:05:00.000Z,working
+workout buddy,The Clap,32.5,lb,2026-09-07T23:05:00.000Z,working
+me,Shoulder press,30,lb,2026-09-07T23:06:00.000Z,working
+workout buddy,Shoulder press,40,lb,2026-09-07T23:06:00.000Z,working
+me,Ab Ball Toss Situps,6,lb,2026-09-07T23:07:00.000Z,working
+workout buddy,Ab Ball Toss Situps,6,lb,2026-09-07T23:07:00.000Z,working
+me,Warmup,8,lb,2026-09-09T23:00:00.000Z,working
+me,Bulgarian Split Squats,25,lb,2026-09-09T23:01:00.000Z,working
+workout buddy,Bulgarian Split Squats,30,lb,2026-09-09T23:01:00.000Z,working
+me,Machine Rows,85,lb,2026-09-09T23:02:00.000Z,working
+workout buddy,Machine Rows,112.5,lb,2026-09-09T23:02:00.000Z,working
+me,Lat Pulldowns,212.5,lb,2026-09-09T23:03:00.000Z,working
+me,Grippy Bois,47.5,lb,2026-09-09T23:04:00.000Z,working
+workout buddy,Grippy Bois,55,lb,2026-09-09T23:04:00.000Z,working
+me,Warmup,8,lb,2026-09-11T23:00:00.000Z,working
+me,Swing Squat Clean Circuit,12,lb,2026-09-11T23:01:00.000Z,working
+workout buddy,Swing Squat Clean Circuit,10,lb,2026-09-11T23:01:00.000Z,working
+me,Kettle Bell Rotations,32.5,lb,2026-09-11T23:02:00.000Z,working
+workout buddy,Kettle Bell Rotations,35,lb,2026-09-11T23:02:00.000Z,working
+me,Machine Curls,120,lb,2026-09-11T23:03:00.000Z,working
+workout buddy,Machine Curls,80,lb,2026-09-11T23:03:00.000Z,working
+me,Calves Got Out,21,lb,2026-09-11T23:04:00.000Z,working
+workout buddy,Calves Got Out,24,lb,2026-09-11T23:04:00.000Z,working
+me,Back Breakers,32.5,lb,2026-09-11T23:05:00.000Z,working
+workout buddy,Back Breakers,32.5,lb,2026-09-11T23:05:00.000Z,working
+me,Warmup,8,lb,2026-09-14T23:00:00.000Z,working
+me,Clean things,55,lb,2026-09-14T23:01:00.000Z,working
+workout buddy,Clean things,65,lb,2026-09-14T23:01:00.000Z,working
+me,Bench machine,90,lb,2026-09-14T23:02:00.000Z,working
+workout buddy,Bench machine,115,lb,2026-09-14T23:02:00.000Z,working
+me,Leg Press,372.5,lb,2026-09-14T23:03:00.000Z,working
+workout buddy,Leg Press,330,lb,2026-09-14T23:03:00.000Z,working
+me,Rear Delt Flies,20,lb,2026-09-14T23:04:00.000Z,working
+workout buddy,Rear Delt Flies,20,lb,2026-09-14T23:04:00.000Z,working
+me,The Clap,15,lb,2026-09-14T23:05:00.000Z,working
+workout buddy,The Clap,32.5,lb,2026-09-14T23:05:00.000Z,working
+me,Shoulder press,30,lb,2026-09-14T23:06:00.000Z,working
+workout buddy,Shoulder press,40,lb,2026-09-14T23:06:00.000Z,working
+me,Ab Ball Toss Situps,6,lb,2026-09-14T23:07:00.000Z,working
+workout buddy,Ab Ball Toss Situps,6,lb,2026-09-14T23:07:00.000Z,working
