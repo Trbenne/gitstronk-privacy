@@ -1,6 +1,6 @@
 # Git Stronk Workout Tracker — Privacy policy
 
-Last updated: 2026-09-13
+Last updated: 2026-09-29
 
 ## How to delete your data
 
@@ -16,7 +16,7 @@ Git Stronk Workout Tracker stores people names, routines, exercises, notes, sess
 
 ## Backups and network
 
-On Android, Auto Backup can copy app data to the user's Google account when device backup is enabled. That is the user's Google backup, not developer servers. On iOS, backup can include app data. The platform runtime may use the network. We do not sync to a developer server, and workout data is not sent to a developer server.
+On Android, Auto Backup can copy app data to the user's Google account when device backup is enabled. That is the user's Google backup, not developer servers. On iOS, backup can include app data. The app may use the network for serving ads. We do not sync to a developer server, and workout data is not sent to a developer server.
 
 ## CSV import and export
 
@@ -26,6 +26,32 @@ CSV import uses a document picker so you choose the file. On Android, export can
 
 Rest and timed-circuit countdown notifications and background countdown sound keep countdown audio running. Rest-timer haptics provide feedback. CSV uses the document picker, folder save, and share as described above.
 
-## Accounts, sale, and analytics
+## Ads and measurement
 
-No account is required. We do not sell your data. We do not use third-party analytics.
+The app shows ads through Google AdMob (Google). You may see a banner on many screens, a larger ad during some workouts (for example while resting or on certain tracker screens), a full-screen ad after you finish a workout, and optional rewarded ads that you start yourself. Rewarded ads can unlock a temporary extra routine slot, a temporary extra friend slot, or a temporary period without display ads.
+
+For ad serving and measurement, Google may receive data such as an advertising identifier when your device provides one, your IP address (which can be used as approximate location), how you interact with ads (for example views or taps), and diagnostic information related to ad delivery. AdMob uses this kind of data to show ads and to measure how ads perform. This is separate from the workout log the app keeps on your device.
+
+Your workout content stays on the device. People names, routines, exercises, session history, weights, and logs are not sent to AdMob for ad targeting.
+
+We do not sell your data. To show ads, certain information is shared with Google so ads can be served and measured. That sharing is not a sale of your data in the sense used by Google Play’s data safety disclosures.
+
+You can limit personalized ads on Android in your device settings (look for Ads, Ads privacy, or “Opt out of Ads Personalization,” depending on your device). If you are in the European Economic Area, the United Kingdom, or Switzerland, the app shows Google’s in-app consent message before ads are requested; that message is how you can make choices about personalized ads and related processing in those regions. When available, you can also open **Ad privacy choices** in the app’s Settings to review or change ad privacy options.
+
+The workout tracker works without an internet connection for logging and viewing your data. Ads need a network connection when they load. If you are offline, ads may not appear, but the app still works.
+
+Rewarded ads are optional. You choose when to tap to watch. Any reward (an extra slot or ad-free time) is applied inside the app only. Rewards are not cash, gift cards, or other items you can transfer to someone else.
+
+## Accounts and data
+
+No account is required. We do not sell your data.
+
+## Third-party links
+
+**Google’s privacy policy explains how Google handles data across its services:**
+
+https://policies.google.com/privacy
+
+**You can manage ad personalization and related Google ad settings here:**
+
+https://adssettings.google.com/
